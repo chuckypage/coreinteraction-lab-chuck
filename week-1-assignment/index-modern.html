@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Week1Modern</title>
+	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+		
+
+	<style>
+	.first {
+		color: #cc0000;
+		background-image: url();
+		background-position: center;
+		background-attachment: fixed;
+		font-family: 'Oswald', sans-serif;
+		text-align: right;
+		font-size: 100px;
+		padding: 50px;
+		padding-top: 80px;
+		padding-bottom: 0px;
+		padding-right: 0px;
+		margin: 100px;
+		margin-right: 5px;
+		margin-bottom: 0px;
+		line-height: 90%;
+		font-style: italic;
+	}
+
+	.second {
+		color: #cc0000;
+		background-image: url();
+		background-position: center;
+		background-attachment: fixed;
+		font-family: 'Oswald', sans-serif;
+		text-align: right;
+		font-size: 100px;
+		padding: 50px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		margin-right: 40px;
+		margin: 100px;
+		margin-top: 0px;
+		margin-right: 5px;
+		margin-bottom: 0px;
+		line-height: 90%;
+		font-style: italic;
+	}
+
+	.second:hover {
+		color: black;
+	}
+
+
+	.extra-padding {
+		background-color: #cc0000;
+      font-weight: bold;
+    }
+
+</style>	
+	
+	</head>
+	
+<body>
+
+	<div class="first">
+	I SINK MY TEETH INTO A RIPE PERSIMMON
+	</div>
+
+	<div class="second">
+	IT DRIBBLES DOWN MY BEARD
+	</div>
+	 	
+	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script>
+    $('.second').click(function () {
+      $(this).toggleClass('extra-padding');
+    });
+  	</script>
+</body>
+</html>
