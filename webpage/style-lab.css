@@ -1,0 +1,36 @@
+
+a:link { 
+	text-decoration: none;
+	font-family: 'VT323', sans serif;
+	font-weight: bold;
+	font-size: 60px;
+
+
+}
+
+a:visited {
+	text-decoration: none;
+	font-family: 'VT323', sans serif;
+	font-weight: bold;
+	color: #ff99cc;
+
+}
+
+a:hover {
+	text-decoration: none;
+	font-family: 'VT323', sans serif;
+	color: hotpink;
+	font-style: italic;
+	background-image: url(http://i361.photobucket.com
+	/albums/oo54/crackysparkles/sparkles/sparkles-7.gif);
+
+}
+
+a:active {
+	text-decoration: none;
+	font-family: 'VT323', sans serif;
+	background-color: ##ff99cc;
+	font-weight: bold;
+
+
+}
