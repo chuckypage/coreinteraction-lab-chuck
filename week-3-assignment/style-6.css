@@ -1,0 +1,73 @@
+ #bluebox{
+	height: 50vh;
+	width: 100vw;
+	background: lightblue;
+	margin-top: 50vh;
+	margin-left: -1vh;
+
+	
+}
+
+#hotpinkbox{
+	height: 50vh;
+	width: 52vw;
+	background: hotpink;
+	margin-top: -100vh;
+	position: relative;
+	margin-left: -1vh;
+	
+}
+
+#pinkbox{
+	height: 50vh;
+	width: 51vw;
+	background: pink;
+	margin-top: -50vh;
+	margin-left: 50vw;
+	position: relative;
+
+}
+
+#yellowbox{
+	height: 25vh;
+	width: 25vw;
+	background: yellow;
+	position: relative;
+	margin-top: -35vh;
+	margin-left: 38vw;
+}
+
+
+#circleone{
+	height: 4vh;
+	width: 4vw;
+	border-radius: 50%;
+	background: yellow;
+	position: relative;
+	margin-top: 35vh;
+	margin-left: 44vw;
+}
+
+
+#circletwo{
+	height: 4vh;
+	width: 4vw;
+	border-radius: 50%;
+	background: yellow;
+	position: relative;
+	margin-top: -4vh;
+	margin-left: 50vw;
+}
+
+
+#circlethree{
+	height: 4vh;
+	width: 4vw;
+	border-radius: 50%;
+	background: yellow;
+	position: relative;
+	margin-top: -4vh;
+	margin-left: 56vw;
+}
+
+

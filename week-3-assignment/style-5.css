@@ -1,0 +1,80 @@
+#magentabox{
+  height: 750px;
+  width: 300px;
+  background: magenta;
+  margin-left: 1000px;
+  float: right;
+}
+
+#greenrectangle{
+  height: 100px;
+  width: 280px;
+  background: lightgreen;
+  margin-right: 10px;
+  margin-top: -110px;
+  float: right;
+}
+
+#circle{
+  height: 50px;
+  width: 70px;
+  border-radius: 50%;
+  background-color: indigo;
+  margin-top: -85px;
+  margin-right: 110px;
+  float: right;
+}
+
+#oneline{
+  height: 30px;
+  width: 280px;
+  background: indigo;
+  float: right;
+  margin-right: 10px;
+  margin-top: -740px;
+}
+
+#twoline{
+  height: 30px;
+  width: 280px;
+  background: indigo;
+  float: right;
+  margin-right: 0px;
+  margin-top: -700px;
+}
+
+#threeline{
+  height: 30px;
+  width: 280px;
+  background: indigo;
+  float: right;
+  margin-right: 10px;
+  margin-top: -660px;
+}
+
+#fourline{
+  height: 30px;
+  width: 280px;
+  background: indigo;
+  float: right;
+  margin-right: 10px;
+  margin-top: -620px;
+}
+
+#fiveline{
+  height: 30px;
+  width: 280px;
+  background: indigo;
+  float: right;
+  margin-right: 0px;
+  margin-top: -580px;
+}
+
+#sixline{
+  height: 30px;
+  width: 280px;
+  background: indigo;
+  float: right;
+  margin-right: 10px;
+  margin-top: -540px;
+}

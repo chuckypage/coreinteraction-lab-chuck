@@ -1,43 +1,77 @@
-.first {
-	position: absolute;
-	width: 150px;
-	height: 300px;
-	background: orange;
-	margin-top: 0px;
-	
+.square{
+	height: 500px;
+	width: 300px;
 }
 
-.second {
-	position: relative;
-	top:10px;
-	width:150px;
-	height:280px;
-	margin-top: 0px;
+#topblue{
 	background: blue;
-	margin-left: 70px;
 }
-.third{
-	position:absolute;
-	width:150px;
-	height:300px;
-	background:orange;
-	margin-top: 30px;
+
+#bottomblue{
+	background: blue;
+	margin-top: 20px;
 }
-.third-rect{
-	position: relative;
-	top:35px;
-	width:143px;
-	height:90px;
-	margin-left: 3px;
-	background-color: yellow;
+
+#green{
+	background: green;
+	height: 480px;
+	width: 290px;
+	margin-top: -1010px;
+	margin-left: 150px;
 }
-.third-rect.block{
-	display: inline-block;
-	position: relative;
-	background-color: black;
-	top:-40px;
-	bottom: 30px;
-	width:20px;
-	height:20px;
-	
+
+#lightpink{
+	background: pink;
+	height: 200px;
+	width: 280px;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+
+#onepink{
+	background: hotpink;
+	height: 60px;
+	width: 60px;
+	margin-top: -195px;
+	margin-left: 15px;
+}
+
+#twopink{
+	background: hotpink;
+	height: 60px;
+	width: 60px;
+	margin-top: -65px;
+	margin-left: 85px;
+}
+
+#threepink{
+	background: hotpink;
+	height: 60px;
+	width: 60px;
+	margin-top: -55px;
+	margin-left: 155px;
+}
+
+#fourpink{
+	background: hotpink;
+	height: 60px;
+	width: 60px;
+	margin-top: 10px;
+	margin-left: 155px;
+}
+
+#fivepink{
+	background: hotpink;
+	height: 60px;
+	width: 60px;
+	margin-top: -60px;
+	margin-left: 85px;
+}
+
+#sixpink{
+	background: hotpink;
+	height: 60px;
+	width: 60px;
+	margin-top: -60px;
+	margin-left: 15px;
 }
