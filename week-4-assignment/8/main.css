@@ -1,0 +1,15 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+.boxone {
+	position: fixed;
+	width: 50vh;
+	height: 100vh;
+	background-image: url("http://33.media.tumblr.com/ced297191bd65cf1d787cf0ca18afa4d/tumblr_mz6nic6I1L1t3uo28o1_250.gif");
+	background-size: 300%;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}

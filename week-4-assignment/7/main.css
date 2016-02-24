@@ -1,0 +1,10 @@
+.boxone {
+	position: fixed;
+	width: 500px;
+	height: 150px;
+	background-image: url("http://49.media.tumblr.com/tumblr_m1m9vmOVGP1qeialgo1_500.gif");
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: 125vh;
+}

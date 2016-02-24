@@ -1,0 +1,14 @@
+body {
+
+}
+
+.boxone {
+	position: fixed;
+	width: 170vh;
+	height: 90vh;
+	background-image: url("http://i.imgur.com/OF7zMgs.gif"); 
+	background-size: 300%;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}

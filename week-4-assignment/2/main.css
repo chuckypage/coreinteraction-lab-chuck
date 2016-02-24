@@ -1,0 +1,51 @@
+.boxone {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("https://media.giphy.com/media/8iZKYfwD0J6zS/giphy.gif");
+	margin-left: 0px;
+	background-position: top;
+}
+
+.boxtwo {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("https://media.giphy.com/media/8iZKYfwD0J6zS/giphy.gif");
+	margin-left: 60px;
+	margin-top: 50px;
+	background-position: center;
+}
+
+.boxthree {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("https://media.giphy.com/media/8iZKYfwD0J6zS/giphy.gif");
+	margin-left: 0px;
+	margin-top: -50px;
+	background-position: center;
+}
+
+.boxfour {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("https://media.giphy.com/media/8iZKYfwD0J6zS/giphy.gif");
+	margin-left: 50px;
+	margin-top: 50px;
+	background-position: center;
+}
+
+.boxfive {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("https://media.giphy.com/media/8iZKYfwD0J6zS/giphy.gif");	
+	background-position: bottom;
+	margin-top: -50px;

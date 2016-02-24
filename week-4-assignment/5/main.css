@@ -1,0 +1,22 @@
+.boxone {
+	position: absolute;
+	width: 200px;
+	height: 400px;
+	background-image: url("https://media.giphy.com/media/16HTvWAsRIlSE/giphy.gif");
+	background-repeat: no-repeat;
+	background-size: 340%;
+	background-position: center;
+}
+
+.boxtwo {
+	position: absolute;
+	width: 200px;
+	height: 400px;
+	background-image: url("http://49.media.tumblr.com/d5c0eef6ca3ee3496a390bd9052457cd/tumblr_n1u7kiqI5X1tugamxo1_r2_500.gif");
+	background-size: 300%;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 0px;
+	margin-left: 200px;
+	
+}

@@ -1,0 +1,49 @@
+.boxone {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("http://legomenon.io/sites/default/files/field/image/grooe.gif");
+	margin-left: 50px;
+}
+
+.boxtwo {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("http://legomenon.io/sites/default/files/field/image/grooe.gif");
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.boxthree {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("http://legomenon.io/sites/default/files/field/image/grooe.gif");
+	margin-left: 50px;
+	margin-top: 5px;
+}
+
+.boxfour {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("http://legomenon.io/sites/default/files/field/image/grooe.gif");
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.boxfive {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	background: pink;
+	background-image: url("http://legomenon.io/sites/default/files/field/image/grooe.gif");
+	margin-left: 50px;
+	margin-top: 5px;
+}
+
